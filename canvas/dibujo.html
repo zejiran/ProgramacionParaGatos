@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>dibujando con canvas</title>
+  </head>
+  <body>
+    <h1>Dibujo en canvas</h1>
+    <p>¿Cuantas líneas quieres?
+      <input type = "text" id = "textolinea" />
+      <input type = "button" value = "A darle!!!" id="boton" onclick="dibujoporclick()" />
+      <input type = "button" value = "Borrar" id = "borrar" onclick="borrar()" />
+    </p>
+    <canvas width = "300" height = "300" id = "dibujito"></canvas>
+    <p>Así queda tu dibujo</p>
+    <script src = "dibujo.js"></script>
+  </body>
+</html>
