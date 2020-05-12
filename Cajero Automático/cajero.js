@@ -24,7 +24,7 @@ function entregarDinero(){
       dinero = dinero - (bi.valor * papeles);
     }
   }
-  if(dinero > 0){
+  if(dinero > 1000){
     r.innerHTML = "Soy un cajero malo, he sido malo y no puedo darte esa cantidad >;c";
   }
   else{

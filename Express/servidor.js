@@ -13,5 +13,3 @@ function cursos(peticion, resultado){
 }
 
 aplicacion.listen(8989);
-
-// platzi.com/js
