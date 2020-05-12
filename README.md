@@ -1,2 +1,2 @@
 # ProgramacionParaGatos
-Curso de programación básica
+Programación básica
