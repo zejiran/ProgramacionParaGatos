@@ -13,7 +13,7 @@ Basic programming on Javascript.
 
 ### 3. <a href="https://zejiran.github.io/ProgramacionParaGatos/Otros/primero.html">First HTML</a>
 
-<img src="https://i.ibb.co/nCLRzYf/3.png" alt="3" border="0" style="width: 31%"">
+<img src="https://i.ibb.co/nCLRzYf/3.png" alt="3" border="0" style="width: 31%">
 
 ### 4. <a href="https://zejiran.github.io/ProgramacionParaGatos/Otros/marte_jupiter.html">Mars/Jupiter</a>
 
